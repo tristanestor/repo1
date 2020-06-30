@@ -1,2 +1,2 @@
 # repo1
-for testing
+for testing in using git repository
